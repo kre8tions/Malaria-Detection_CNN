@@ -6,4 +6,6 @@ Traditional diagnosis of malaria in the laboratory requires careful inspection b
 
 An automated system can help with the early and accurate detection of malaria. Applications of automated classification techniques using Machine Learning (ML) and Artificial Intelligence (AI) have consistently shown higher accuracy than manual classification. It would therefore be highly beneficial to propose a method that performs malaria detection using Deep Learning Algorithms.
 
-https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/AlexChung_Malaria_Detection_Capstone_Project_Final%20Submission_Report%20Slides.pdf
+## [Slide Presentation](https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/AlexChung_Malaria_Detection_Capstone_Project_Final%20Submission_Report%20Slides.pdf)
+
+

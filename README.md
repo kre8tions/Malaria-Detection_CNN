@@ -5,3 +5,5 @@ Malaria is a contagious disease caused by Plasmodium parasites that are transmit
 Traditional diagnosis of malaria in the laboratory requires careful inspection by an experienced professional to discriminate between healthy and infected red blood cells. It is a tedious, time-consuming process, and the diagnostic accuracy (which heavily depends on human expertise) can be adversely impacted by inter-observer variability.
 
 An automated system can help with the early and accurate detection of malaria. Applications of automated classification techniques using Machine Learning (ML) and Artificial Intelligence (AI) have consistently shown higher accuracy than manual classification. It would therefore be highly beneficial to propose a method that performs malaria detection using Deep Learning Algorithms.
+
+https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/AlexChung_Malaria_Detection_Capstone_Project_Final%20Submission_Report%20Slides.pdf
